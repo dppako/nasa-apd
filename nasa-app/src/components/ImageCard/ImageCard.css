@@ -1,0 +1,7 @@
+.ImageCard {
+  padding: 10px; 
+}
+
+.ImageCard__image {
+  max-width: 100%;
+}  
